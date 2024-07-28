@@ -15,3 +15,4 @@ eksctl create fargateprofile \
 ```
 kubectl apply -f https://raw.githubusercontent.com/kubernetes-sigs/aws-load-balancer-controller/v2.5.4/docs/examples/2048/2048_full.yaml
 ```
+![image](https://github.com/user-attachments/assets/a7af1bc1-52d9-4595-a38d-fdbdbff56192)
